@@ -97,10 +97,10 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 - **M.S. – Xiamen University** │ Xiamen, Fujian  
   School of Informatics (Specialized Software School) · Communication Engineering │ 2022.09 – 2025.06  
-  Advisors: Assoc. Prof. Minghui Liwang, Prof. Liqun Fu (Distinguished Professor, Minjiang Scholar)  
+  Advisors: Assoc. Prof. Minghui Liwang, Prof. Liqun Fu (Minjiang Scholar)  
 
 - **Ph.D. – Tongji University** │ Yangpu, Shanghai  
   Shanghai Research Institute for Intelligent Autonomous Systems / National Key Laboratory of Autonomous Intelligent Unmanned Systems · Intelligent Science and Technology │ 2025.09 – Present  
-  Advisors: Prof. Xianbin Wang (Advisory Professor, Fellow of the Canadian Academy of Engineering, IEEE Fellow), Assoc. Prof. Minghui Liwang  
+  Advisors: Prof. Xianbin Wang (IEEE Fellow), Assoc. Prof. Minghui Liwang  
 
 
