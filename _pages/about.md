@@ -41,7 +41,8 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, and Wei Ni
 
-- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**, CCF-A, JCR Q1, IF=17.2, 中科院一区Top.  
+- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**
+- CCF-A, JCR Q1, IF=17.2, 中科院一区Top.  
 </div>
 </div>
 
@@ -52,7 +53,8 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, and Zhipeng Cheng
 
-- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, JCR Q1, IF=9.2, 中科院一区Top.  
+- Published in **IEEE Transactions on Mobile Computing (TMC)**
+- CCF-A, JCR Q1, IF=9.2, 中科院一区Top.  
 </div>
 </div>
 
@@ -63,7 +65,8 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, and Zhenzhen Jiao
 
-- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, JCR Q1, IF=9.2, 中科院一区Top.  
+- Published in **IEEE Transactions on Mobile Computing (TMC)**
+- CCF-A, JCR Q1, IF=9.2, 中科院一区Top.  
 </div>
 </div>
 
@@ -74,7 +77,8 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, and Xianbin Wang
 
-- Published in **IEEE Transactions on Services Computing (TSC)**, CCF-A, JCR Q1, IF=5.8, 中科院二区Top.  
+- Published in **IEEE Transactions on Services Computing (TSC)**
+- CCF-A, JCR Q1, IF=5.8, 中科院二区Top.  
 </div>
 </div>
 
