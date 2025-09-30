@@ -27,9 +27,9 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 Our paper *“Accelerating Stable Matching between Workers and Spatial-Temporal Tasks for Dynamic MCS: A Stagewise Service Trading Approach”* has been accepted by **IEEE Transactions on Mobile Computing (TMC)** (CCF-A, SCI Q1, IF=9.2).  
+- *2025.09*: &nbsp;🎉🎉 Our paper *“Accelerating Stable Matching between Workers and Spatial-Temporal Tasks for Dynamic MCS: A Stagewise Service Trading Approach”* has been accepted by **IEEE Transactions on Mobile Computing (TMC)** (CCF-A, JCR Q1, IF=9.2).  
 
-- *2025.09*: &nbsp;🎉🎉 Our paper *“Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions”* has been accepted by **IEEE Journal on Selected Areas in Communications (JSAC)** (CCF-A, SCI Q1, IF=17.2).  
+- *2025.09*: &nbsp;🎉🎉 Our paper *“Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions”* has been accepted by **IEEE Journal on Selected Areas in Communications (JSAC)** (CCF-A, JCR Q1, IF=17.2).  
 
 
 # 📝 Publications 
