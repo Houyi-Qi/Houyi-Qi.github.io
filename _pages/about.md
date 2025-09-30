@@ -35,7 +35,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2023</div><img src='images/tsc2023.png' alt="tsc2023" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Matching-based hybrid service trading for task assignment over dynamic mobile crowdsensing networks](https://ieeexplore.ieee.org/document/XXXXXXX)  
+[Matching-based hybrid service trading for task assignment over dynamic mobile crowdsensing networks](https://ieeexplore.ieee.org/document/10321730)  
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, and Xianbin Wang
 
@@ -46,7 +46,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/tmc2024.png' alt="tmc2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridge the present and future: A cross-layer matching game in dynamic cloud-aided mobile edge networks](https://ieeexplore.ieee.org/document/XXXXXXX)  
+[Bridge the present and future: A cross-layer matching game in dynamic cloud-aided mobile edge networks](https://ieeexplore.ieee.org/document/10553366)  
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, and Zhenzhen Jiao
 
@@ -57,7 +57,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/tmc2025.png' alt="tmc2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accelerating Stable Matching between Workers and Spatial-Temporal Tasks for Dynamic MCS: A Stagewise Service Trading Approach](https://ieeexplore.ieee.org/document/XXXXXXX)  
+[Accelerating Stable Matching between Workers and Spatial-Temporal Tasks for Dynamic MCS: A Stagewise Service Trading Approach](https://ieeexplore.ieee.org/document/11165757)  
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, and Zhipeng Cheng
 
@@ -68,7 +68,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/jsac2025.png' alt="jsac2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions](https://ieeexplore.ieee.org/document/XXXXXXX)  
+[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions](https://ieeexplore.ieee.org/document/11155207)  
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, and Wei Ni
 
