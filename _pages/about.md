@@ -95,15 +95,15 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
 
 # 📖 Educations
 
-- **Ph.D. – Tongji University** │ Shanghai  
+- **Ph.D. – [Tongji University](https://www.tongji.edu.cn/)** │ Shanghai  
   Shanghai Research Institute for Intelligent Autonomous Systems / National Key Laboratory of Autonomous Intelligent Unmanned Systems · Intelligent Science and Technology │ 2025.09 – Present  
   Advisors: Prof. Xianbin Wang (IEEE Fellow), Assoc. Prof. Minghui Liwang
   
-- **M.S. – Xiamen University** │ Xiamen, Fujian  
+- **M.S. – [Xiamen University](https://www.xmu.edu.cn/)** │ Xiamen, Fujian  
   School of Informatics (Specialized Software School) · Communication Engineering │ 2022.09 – 2025.06  
   Advisors: Assoc. Prof. Minghui Liwang, Prof. Liqun Fu (Minjiang Scholar)  
 
-  - **B.Eng. – Zhengzhou University** │ Zhengzhou, Henan  
+  - **B.Eng. – [Zhengzhou University](https://www.zzu.edu.cn/)** │ Zhengzhou, Henan  
   School of Information Engineering · Electronic Information Engineering │ 2017.09 – 2021.06  
 
 
