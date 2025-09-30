@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Houyi Qi"
-description              : "Academic Homepage of Houyi Qi "
+description              : "Tongji University "
 repository               : "Houyi-Qi/Houyi-Qi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Houyi Qi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   affiliation:     "Tongji University"
   location         : "Shanghai, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/Houyi-Qi # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0000-7884-0657# e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
