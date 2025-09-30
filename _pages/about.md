@@ -103,7 +103,7 @@ My research interests focus on edge intelligence, mobile crowdsensing (MCS), veh
   School of Informatics (Specialized Software School) · Communication Engineering │ 2022.09 – 2025.06  
   Advisors: Assoc. Prof. Minghui Liwang, Prof. Liqun Fu (Minjiang Scholar)  
 
-  - **B.Eng. – [Zhengzhou University](https://www.zzu.edu.cn/)** │ Zhengzhou, Henan  
+- **B.Eng. – [Zhengzhou University](https://www.zzu.edu.cn/)** │ Zhengzhou, Henan  
   School of Information Engineering · Electronic Information Engineering │ 2017.09 – 2021.06  
 
 
