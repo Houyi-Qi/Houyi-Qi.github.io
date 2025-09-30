@@ -39,7 +39,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, and Wei Ni
 
-- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**, CCF-A, TOPSCI, SCI Q1, IF=17.2.  
+- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**, CCF-A, SCI Q1, IF=17.2.  
 </div>
 </div>
 
@@ -50,7 +50,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, and Zhipeng Cheng
 
-- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, TOPSCI, SCI Q1, IF=9.2.  
+- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, SCI Q1, IF=9.2.  
 </div>
 </div>
 
@@ -61,7 +61,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, and Zhenzhen Jiao
 
-- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, TOPSCI, SCI Q1, IF=9.2.  
+- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, SCI Q1, IF=9.2.  
 </div>
 </div>
 
@@ -72,7 +72,7 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, and Xianbin Wang
 
-- Published in **IEEE Transactions on Services Computing (TSC)**, CCF-A, TOPSCI, SCI Q1, IF=5.8.  
+- Published in **IEEE Transactions on Services Computing (TSC)**, CCF-A, SCI Q1, IF=5.8.  
 </div>
 </div>
 
