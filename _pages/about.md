@@ -19,7 +19,9 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I am currently a Ph.D. student in Intelligent Science and Technology at Tongji University, with an M.S. degree in Communication Engineering from Xiamen University and a B.Eng. degree in Electronic Information Engineering from Zhengzhou University. My research interests focus on edge intelligence, mobile crowdsensing (MCS), large model replica deployment and inference, vehicular–UAV collaborative networks, and integrated sensing-communication-computing (ISAC). I am particularly interested in leveraging matching theory, optimization, privacy-preserving mechanisms, reinforcement learning, and liquid neural networks (LNNs) to enable efficient, reliable, and scalable resource management and service orchestration in dynamic network environments.
+I am currently a Ph.D. student in Intelligent Science and Technology at Tongji University, with an M.S. degree in Communication Engineering from Xiamen University and a B.Eng. degree in Electronic Information Engineering from Zhengzhou University. 
+
+My research interests focus on edge intelligence, mobile crowdsensing (MCS), vehicular–UAV collaborative networks, and integrated sensing-communication-computing (ISAC). I am particularly interested in leveraging matching theory, optimization, reinforcement learning, and liquid neural networks (LNNs) to enable efficient, reliable, and scalable resource management and service orchestration in dynamic network environments.
 
 
 
