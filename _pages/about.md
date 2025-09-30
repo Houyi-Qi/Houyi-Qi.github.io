@@ -32,25 +32,14 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2023</div><img src='images/tsc2023.png' alt="tsc2023" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/jsac2025.png' alt="jsac2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Matching-based hybrid service trading for task assignment over dynamic mobile crowdsensing networks](https://ieeexplore.ieee.org/document/10321730)  
+[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions](https://ieeexplore.ieee.org/document/11155207)  
 
-**Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, and Xianbin Wang
+**Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, and Wei Ni
 
-- Published in **IEEE Transactions on Services Computing (TSC)**, CCF-A, TOPSCI, SCI Q1, IF=5.8.  
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/tmc2024.png' alt="tmc2024" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bridge the present and future: A cross-layer matching game in dynamic cloud-aided mobile edge networks](https://ieeexplore.ieee.org/document/10553366)  
-
-**Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, and Zhenzhen Jiao
-
-- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, TOPSCI, SCI Q1, IF=9.2.  
+- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**, CCF-A, TOPSCI, SCI Q1, IF=17.2.  
 </div>
 </div>
 
@@ -65,16 +54,33 @@ I am currently a Ph.D. student in Intelligent Science and Technology at Tongji U
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/jsac2025.png' alt="jsac2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/tmc2024.png' alt="tmc2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions](https://ieeexplore.ieee.org/document/11155207)  
+[Bridge the present and future: A cross-layer matching game in dynamic cloud-aided mobile edge networks](https://ieeexplore.ieee.org/document/10553366)  
 
-**Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, and Wei Ni
+**Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, and Zhenzhen Jiao
 
-- Published in **IEEE Journal on Selected Areas in Communications (JSAC)**, CCF-A, TOPSCI, SCI Q1, IF=17.2.  
+- Published in **IEEE Transactions on Mobile Computing (TMC)**, CCF-A, TOPSCI, SCI Q1, IF=9.2.  
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2023</div><img src='images/tsc2023.png' alt="tsc2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Matching-based hybrid service trading for task assignment over dynamic mobile crowdsensing networks](https://ieeexplore.ieee.org/document/10321730)  
+
+**Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, and Xianbin Wang
+
+- Published in **IEEE Transactions on Services Computing (TSC)**, CCF-A, TOPSCI, SCI Q1, IF=5.8.  
+</div>
+</div>
+
+
+
+
+
+
 
 
 # 🎖 Honors and Awards
