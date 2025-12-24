@@ -19,13 +19,14 @@ redirect_from:
 
 Houyi Qi received the B.S. degree in Electronic Information Engineering from Zhengzhou University, China, in 2021, and the M.S. degree in Communication Engineering from Xiamen University, China, in 2025. He is currently pursuing the Ph.D. degree with the Shanghai Research Institute for Intelligent Autonomous Systems, State Key Laboratory of Autonomous Intelligent Unmanned Systems, Frontiers Science Center for Intelligent Autonomous Systems, Tongji University, China. 
 
-My research interest includes nmobile crowdsensing networks, matching theory, resource allocation, and cloud/edge/service computing. 
-# I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes nmobile crowdsensing networks, matching theory, resource allocation, and cloud/edge/service computing<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*:  🎉🎉 Our paper **“Future Resource Bank for ISAC”** has been accepted by **IEEE Journal on Selected Areas in Communications (JSAC)**.
+- *2025.09*:  🎉🎉 Our paper **“Accelerating Stable Matching for Dynamic MCS”** has been accepted by **IEEE Transactions on Mobile Computing (TMC)**.
+
 
 # 🎓 Education
 - *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems / National Key Laboratory of Intelligent Autonomous Unmanned Systems, Yangpu, Shanghai, China — Ph.D. in Intelligent Science and Technology
@@ -40,19 +41,77 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- [1] IEEE JSAC 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/500x300.png' alt="jsac" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Houyi Qi (齐厚艺)**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- DOI: 10.1109/JSAC.2025.3608114  
+- IF: 17.2, CCF A, CAS Q1 Top.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- [2] IEEE TMC 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/500x300.png' alt="tmc" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach
+
+**Houyi Qi (齐厚艺)**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, Zhipeng Cheng
+
+- DOI: 10.1109/TMC.2025.3610915  
+- IF: 9.2, CCF A, CAS Q1 Top.
+
+</div>
+</div>
+
+<!-- [3] IEEE TMC 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/500x300.png' alt="tmc" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aided Mobile Edge Networks
+
+**Houyi Qi (齐厚艺)**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, Zhenzhen Jiao
+
+- DOI: 10.1109/TMC.2024.3412751  
+- IF: 9.2, CCF A, CAS Q1 Top.
+
+</div>
+</div>
+
+<!-- [4] IEEE TSC 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/500x300.png' alt="tsc" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Crowdsensing Networks
+
+**Houyi Qi (齐厚艺)**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, Xianbin Wang
+
+- DOI: 10.1109/TSC.2023.3333832  
+- IF: 5.8, CCF A, CAS Q2 Top.
+
+</div>
+</div>
+
+<!-- [5] IEEE TETC 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2025</div><img src='images/500x300.png' alt="tetc" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Oh-Trust: Overbooking and Hybrid Trading-empowered Resource Scheduling with Smart Reputation Update over Dynamic Edge Networks
+
+**Houyi Qi (齐厚艺)**, Minghui Liwang, Liqun Fu, Xianbin Wang, Huaiyu Dai, Xiaoyu Xia
+
+- DOI: 10.1109/TETC.2025.3625379  
+- IF: 5.4, CAS Q2.
+
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2025* Xiamen University Outstanding Graduate (University-level)
