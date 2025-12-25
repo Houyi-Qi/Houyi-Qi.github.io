@@ -119,7 +119,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 - 边缘算力资源调度方法、装置及计算机设备, 李王明卉, 凌梓琪, 张发振, 靳亚硕, 阚雪娇, 杨小洪, **齐厚艺**, CN120407151A, 2025.08
 
 ## Under Review
-- [PAST: Pilot and Adaptive Orchestration for Timely and Resilient Service Delivery in Edge-Assisted UAV Networks under Spatio-Temporal Dynamics](https://arxiv.org/abs/2509.25700), Houyi Qi, Minghui Liwang, Liqun Fu, Sai Zou, Xinlei Yi, Wei Ni, Huaiyu Dai, 2025.
+- [PAST: Pilot and Adaptive Orchestration for Timely and Resilient Service Delivery in Edge-Assisted UAV Networks under Spatio-Temporal Dynamics](https://arxiv.org/abs/2509.25700), **Houyi Qi**, Minghui Liwang, Liqun Fu, Sai Zou, Xinlei Yi, Wei Ni, Huaiyu Dai, 2025.
 - [FUSION: Forecast-Embedded Agent Scheduling with Service Incentive Optimization over Distributed Air-Ground Edge Networks](https://arxiv.org/abs/2512.14323), **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Xianbin Wang, Wei Ni, Yiguang Hong, 2025.
 
 
