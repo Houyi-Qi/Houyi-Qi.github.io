@@ -30,11 +30,11 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 # 🎓 Education
 - *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/tju_logo.webp" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems/The National Key Laboratory of Autonomous Intelligent Unmanned Systems/The Frontiers Science Center for Intelligent Autonomous Systems, Ministry of Education/Shanghai Key Laboratory of Intelligent Autonomous Systems, Shanghai, China — Ph.D. in Intelligent Science and Technology
-  Advisors: Prof. Xianbin Wang (Fellow of CAE, EIC, and IEEE) and Prof. Minghui Liwang
-- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/xmu_logo.webp" width="21pt"></a> Xiamen University, School of Informatics (National Pilot Software School), Xiamen, Fujian, China — M.Eng. in Communications Engineering
-  Advisors: Prof. Minghui Liwang and Prof. Liqun Fu
+  Advisors: Prof. [Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html) (Fellow of CAE, EIC, and IEEE) and Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm)
+- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/xmu_logo.webp" width="21pt"></a> Xiamen University, School of Informatics (National Pilot Software School), Xiamen, China — M.Eng. in Communications Engineering
+  Advisors: Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm) and Prof. [Liqun Fu](https://informatics.xmu.edu.cn/info/1033/161251.htm)
 
-- *Sep 2017 – Jun 2021*, <a href="https://www.zzu.edu.cn/"><img class="svg" src="/images/zzu_logo.webp" width="21pt"></a> Zhengzhou University, School of Information Engineering, Zhengzhou, Henan, China — B.Eng. in Electronic Information Engineering
+- *Sep 2017 – Jun 2021*, <a href="https://www.zzu.edu.cn/"><img class="svg" src="/images/zzu_logo.webp" width="21pt"></a> Zhengzhou University, School of Information Engineering, Zhengzhou, China — B.Eng. in Electronic Information Engineering
 
 
 
@@ -44,7 +44,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/JSAC2025.png' alt="jsac" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions
+[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions]([https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf](https://ieeexplore.ieee.org/document/11155207))
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni
 
@@ -58,7 +58,7 @@ Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Bo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/TMC2025.png' alt="tmc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach
+[Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach](https://ieeexplore.ieee.org/document/11165757)
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, Zhipeng Cheng
 
@@ -72,7 +72,7 @@ Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynami
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/TMC2024.png' alt="tmc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aided Mobile Edge Networks
+[Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aided Mobile Edge Networks](https://ieeexplore.ieee.org/document/10553366)
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, Zhenzhen Jiao
 
@@ -86,7 +86,7 @@ Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aide
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/TSC2024.png' alt="tsc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Crowdsensing Networks
+[Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Crowdsensing Networks](https://ieeexplore.ieee.org/abstract/document/10321730)
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, Xianbin Wang
 
@@ -100,7 +100,7 @@ Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Cr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2025</div><img src='images/TETC2025.png' alt="tetc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Oh-Trust: Overbooking and Hybrid Trading-empowered Resource Scheduling with Smart Reputation Update over Dynamic Edge Networks
+[Oh-Trust: Overbooking and Hybrid Trading-empowered Resource Scheduling with Smart Reputation Update over Dynamic Edge Networks](https://ieeexplore.ieee.org/document/11222912)
 
 **Houyi Qi**, Minghui Liwang, Liqun Fu, Xianbin Wang, Huaiyu Dai, Xiaoyu Xia
 
