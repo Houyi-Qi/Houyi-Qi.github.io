@@ -44,7 +44,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/JSAC2025.png' alt="jsac" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions]([https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf](https://ieeexplore.ieee.org/document/11155207))
+[Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions](https://ieeexplore.ieee.org/document/11155207)
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni
 
