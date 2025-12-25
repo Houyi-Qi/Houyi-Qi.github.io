@@ -46,7 +46,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni
 
-- IEEE Journal on Selected Areas in Communications (IF: 17.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Journal on Selected Areas in Communications* (IF: 17.2, CCF A, JCR Q1, CAS Q1 Top)
 - DOI: 10.1109/JSAC.2025.3608114  
 
 </div>
@@ -60,7 +60,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, Zhipeng Cheng
 
-- IEEE Transactions on Mobile Computing (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
 - DOI: 10.1109/TMC.2025.3610915  
 
 </div>
@@ -74,7 +74,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, Zhenzhen Jiao
 
-- IEEE Transactions on Mobile Computing (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
 - DOI: 10.1109/TMC.2024.3412751  
 
 </div>
@@ -88,7 +88,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, Xianbin Wang
 
-- IEEE Transactions on Services Computing (IF: 5.8, CCF A, JCR Q1, CAS Q2 Top)
+- *IEEE Transactions on Services Computing* (IF: 5.8, CCF A, JCR Q1, CAS Q2 Top)
 - DOI: 10.1109/TSC.2023.3333832  
 
 </div>
@@ -102,15 +102,15 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 **Houyi Qi**, Minghui Liwang, Liqun Fu, Xianbin Wang, Huaiyu Dai, Xiaoyu Xia
 
-- IEEE Transactions on Emerging Topics in Computing (IF: 5.4, JCR Q1, CAS Q2)
+- *IEEE Transactions on Emerging Topics in Computing* (IF: 5.4, JCR Q1, CAS Q2)
 - DOI: 10.1109/TETC.2025.3625379  
 
 </div>
 </div>
 
 ## 🧾Conferences
-- Ahead-of-Time and Risk-Aware Double Auction for Resource Scheduling over UAV-Assisted Internet of Vehicles, Ziqi Ling, Minghui Liwang, **Houyi Qi**, Wei Gong, Zhipeng Cheng, IEEE 4th International Conference on Computing, Communication, Perception and Quantum Technology (IEEE CCPQT), 2025.
-- Offline-Online Mixed Trajectory and Action Planning for Multi-UAV Collaborative Sensing over Unpredictable Points of Interest, Wenhan Jia, Minghui Liwang, **Houyi Qi**, Yuhan Su, IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2025.
+- Ahead-of-Time and Risk-Aware Double Auction for Resource Scheduling over UAV-Assisted Internet of Vehicles, Ziqi Ling, Minghui Liwang, **Houyi Qi**, Wei Gong, Zhipeng Cheng, *IEEE 4th International Conference on Computing, Communication, Perception and Quantum Technology (IEEE CCPQT)*, 2025.
+- Offline-Online Mixed Trajectory and Action Planning for Multi-UAV Collaborative Sensing over Unpredictable Points of Interest, Wenhan Jia, Minghui Liwang, **Houyi Qi**, Yuhan Su, *IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP)*, 2025.
 
 ## 📊Patents
 - 面向数据收集的多无人机动态路径规划方法、装置、设备及介质, 李王明卉, 贾文翰, 吴思城, **齐厚艺**, 苏毓涵，CN202411015056.4, 2024.12
