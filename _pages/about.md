@@ -39,7 +39,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 
 # 📝 Publications 
-
+## Journal Article
 <!-- [1] IEEE JSAC 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/JSAC2025.png' alt="jsac" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,6 +110,17 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 </div>
 </div>
 
+## Conferences
+- Ahead-of-Time and Risk-Aware Double Auction for Resource Scheduling over UAV-Assisted Internet of Vehicles, Ziqi Ling, Minghui Liwang, **Houyi Qi**, Wei Gong, Zhipeng Cheng, IEEE 4th International Conference on Computing, Communication, Perception and Quantum Technology (IEEE CCPQT), 2025.
+- Offline-Online Mixed Trajectory and Action Planning for Multi-UAV Collaborative Sensing over Unpredictable Points of Interest, Wenhan Jia, Minghui Liwang, **Houyi Qi**, Yuhan Su, IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP), 2025.
+
+## Patents
+- 面向数据收集的多无人机动态路径规划方法、装置、设备及介质, 李王明卉, 贾文翰, 吴思城, **齐厚艺**, 苏毓涵，CN202411015056.4, 2024.12
+- 边缘算力资源调度方法、装置及计算机设备, 李王明卉, 凌梓琪, 张发振, 靳亚硕, 阚雪娇, 杨小洪, **齐厚艺**, CN120407151A, 2025.08
+
+## Under Review
+- [PAST: Pilot and Adaptive Orchestration for Timely and Resilient Service Delivery in Edge-Assisted UAV Networks under Spatio-Temporal Dynamics](https://arxiv.org/abs/2509.25700), Houyi Qi, Minghui Liwang, Liqun Fu, Sai Zou, Xinlei Yi, Wei Ni, Huaiyu Dai, 2025.
+- [FUSION: Forecast-Embedded Agent Scheduling with Service Incentive Optimization over Distributed Air-Ground Edge Networks](https://arxiv.org/abs/2512.14323), **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Xianbin Wang, Wei Ni, Yiguang Hong, 2025.
 
 
 # 🎖 Honors and Awards
