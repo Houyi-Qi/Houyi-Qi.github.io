@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Houyi Qi received the B.S. degree in Electronic Information Engineering from Zhengzhou University, China, in 2021, and the M.S. degree in Communication Engineering from Xiamen University, China, in 2025. He is currently pursuing the Ph.D. degree with the Shanghai Research Institute for Intelligent Autonomous Systems, State Key Laboratory of Autonomous Intelligent Unmanned Systems, Frontiers Science Center for Intelligent Autonomous Systems, Tongji University, China. 
+I received the B.S. degree in Electronic Information Engineering from [Zhengzhou University](https://www.zzu.edu.cn), China, in 2021, and the M.S. degree in Communication Engineering from [Xiamen University](https://www.xmu.edu.cn), China, in 2025. I am currently pursuing the Ph.D. degree with the [Shanghai Research Institute for Intelligent Autonomous Systems](https://srias.tongji.edu.cn/main.htm), State Key Laboratory of Autonomous Intelligent Unmanned Systems, Frontiers Science Center for Intelligent Autonomous Systems, [Tongji University](https://www.tongji.edu.cn), China. 
 
 My research interest includes nmobile crowdsensing networks, matching theory, resource allocation, and cloud/edge/service computing<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
@@ -29,10 +29,8 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 <span class='anchor' id='-educations'></span>
 # 🎓 Education
-- *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/tju_logo.webp" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems/The National Key Laboratory of Autonomous Intelligent Unmanned Systems/The Frontiers Science Center for Intelligent Autonomous Systems, Ministry of Education/Shanghai Key Laboratory of Intelligent Autonomous Systems, Shanghai, China — Ph.D. in Intelligent Science and Technology
-  Advisors: Prof. [Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html) (Fellow of CAE, EIC, and IEEE) and Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm)
-- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/xmu_logo.webp" width="21pt"></a> Xiamen University, School of Informatics (National Pilot Software School), Xiamen, China — M.Eng. in Communications Engineering
-  Advisors: Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm) and Prof. [Liqun Fu](https://informatics.xmu.edu.cn/info/1033/161251.htm)
+- *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/tju_logo.webp" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems/The National Key Laboratory of Autonomous Intelligent Unmanned Systems/The Frontiers Science Center for Intelligent Autonomous Systems, Ministry of Education/Shanghai Key Laboratory of Intelligent Autonomous Systems, Shanghai, China — Ph.D. in Intelligent Science and Technology;  Advisors: Prof. [Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html) (Fellow of CAE, EIC, and IEEE) and Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm)
+- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/xmu_logo.webp" width="21pt"></a> Xiamen University, School of Informatics (National Characteristic Demonstration Software School), Xiamen, China — M.Eng. in Communications Engineering;  Advisors: Prof. [Minghui Liwang](https://see.tongji.edu.cn/info/1386/12713.htm) and Prof. [Liqun Fu](https://informatics.xmu.edu.cn/info/1033/161251.htm)
 
 - *Sep 2017 – Jun 2021*, <a href="https://www.zzu.edu.cn/"><img class="svg" src="/images/zzu_logo.webp" width="21pt"></a> Zhengzhou University, School of Information Engineering, Zhengzhou, China — B.Eng. in Electronic Information Engineering
 
