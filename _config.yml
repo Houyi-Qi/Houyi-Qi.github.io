@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Houyi Qi"
-description              : "Academic Homepage "
+description              : "PhD Student, Tongji University"
 repository               : "Houyi-Qi/Houyi-Qi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Houyi Qi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/QHY.jpg"
   bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
