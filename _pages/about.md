@@ -29,13 +29,13 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 
 
 # 🎓 Education
-- *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/Tongji_logo.svg" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems / National Key Laboratory of Intelligent Autonomous Unmanned Systems, Yangpu, Shanghai, China — Ph.D. in Intelligent Science and Technology
+- *Sep 2025 – Present*, <a href="https://www.tongji.edu.cn/"><img class="svg" src="/images/tju_logo.webp" width="21pt"></a> Tongji University, Shanghai Research Institute for Intelligent Autonomous Systems / National Key Laboratory of Intelligent Autonomous Unmanned Systems, Yangpu, Shanghai, China — Ph.D. in Intelligent Science and Technology
   Advisors: Xianbin Wang ( Fellow of the Canadian Academy of Engineering; IEEE Fellow), Minghui Liwang (Associate Professor)
 
-- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/XMU_logo.svg" width="21pt"></a> Xiamen University, School of Informatics (National Pilot Software School), Xiamen, Fujian, China — M.Eng. in Communications Engineering
+- *Sep 2022 – Jun 2025*, <a href="https://www.xmu.edu.cn/"><img class="svg" src="/images/xmu_logo.webp" width="21pt"></a> Xiamen University, School of Informatics (National Pilot Software School), Xiamen, Fujian, China — M.Eng. in Communications Engineering
   Advisors: Minghui Liwang (Associate Professor), Liqun Fu (Professor)
 
-- *Sep 2017 – Jun 2021*, <a href="https://www.zzu.edu.cn/"><img class="svg" src="/images/ZZU_logo.svg" width="21pt"></a> Zhengzhou University, School of Information Engineering, Zhengzhou, Henan, China — B.Eng. in Electronic Information Engineering
+- *Sep 2017 – Jun 2021*, <a href="https://www.zzu.edu.cn/"><img class="svg" src="/images/zzu_logo.webp" width="21pt"></a> Zhengzhou University, School of Information Engineering, Zhengzhou, Henan, China — B.Eng. in Electronic Information Engineering
 
 
 
