@@ -42,7 +42,7 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 # 📝 Publications 
 
 <!-- [1] IEEE JSAC 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/500x300.png' alt="jsac" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSAC 2025</div><img src='images/JSAC2025.png' alt="jsac" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions
@@ -56,7 +56,7 @@ Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Bo
 </div>
 
 <!-- [2] IEEE TMC 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/500x300.png' alt="tmc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/TMC2025.png' alt="tmc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynamic MCS: A Stagewise Service Trading Approach
@@ -70,7 +70,7 @@ Accelerating Stable Matching between Workers and Time-Dependent Tasks for Dynami
 </div>
 
 <!-- [3] IEEE TMC 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/500x300.png' alt="tmc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/TMC2024.png' alt="tmc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aided Mobile Edge Networks
@@ -84,7 +84,7 @@ Bridge the Present and Future: A Cross-Layer Matching Game in Dynamic Cloud-Aide
 </div>
 
 <!-- [4] IEEE TSC 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/500x300.png' alt="tsc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2024</div><img src='images/TSC2024.png' alt="tsc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Crowdsensing Networks
@@ -98,7 +98,7 @@ Matching-Based Hybrid Service Trading for Task Assignment Over Dynamic Mobile Cr
 </div>
 
 <!-- [5] IEEE TETC 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2025</div><img src='images/500x300.png' alt="tetc" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC 2025</div><img src='images/TETC2025.png' alt="tetc" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Oh-Trust: Overbooking and Hybrid Trading-empowered Resource Scheduling with Smart Reputation Update over Dynamic Edge Networks
