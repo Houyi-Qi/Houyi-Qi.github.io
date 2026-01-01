@@ -19,7 +19,7 @@ redirect_from:
 
 I received the B.S. degree in Electronic Information Engineering from [Zhengzhou University](https://www.zzu.edu.cn), China, in 2021, and the M.S. degree in Communication Engineering from [Xiamen University](https://www.xmu.edu.cn), China, in 2025. I am currently pursuing the Ph.D. degree with the [Shanghai Research Institute for Intelligent Autonomous Systems](https://srias.tongji.edu.cn/main.htm), State Key Laboratory of Autonomous Intelligent Unmanned Systems, Frontiers Science Center for Intelligent Autonomous Systems, [Tongji University](https://www.tongji.edu.cn), China. 
 
-My research interest includes nmobile crowdsensing networks, matching theory, resource allocation, and cloud/edge/service computing<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+My research interest includes nmobile crowdsensing networks, matching theory, resource allocation, and cloud/edge/service computing<a href='https://scholar.google.com/citations?user=7QGamoIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
 <span class='anchor' id='-news'></span>
