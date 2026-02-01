@@ -121,6 +121,12 @@ My research interest includes nmobile crowdsensing networks, matching theory, re
 - [PAST: Pilot and Adaptive Orchestration for Timely and Resilient Service Delivery in Edge-Assisted UAV Networks under Spatio-Temporal Dynamics](https://arxiv.org/abs/2509.25700), **Houyi Qi**, Minghui Liwang, Liqun Fu, Sai Zou, Xinlei Yi, Wei Ni, Huaiyu Dai, 2025.
 - [FUSION: Forecast-Embedded Agent Scheduling with Service Incentive Optimization over Distributed Air-Ground Edge Networks](https://arxiv.org/abs/2512.14323), **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Xianbin Wang, Wei Ni, Yiguang Hong, 2025.
 
+🧑‍⚖️ Academic Service
+
+* Journal Reviewer, [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
+* Journal Reviewer, [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
+
+
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
 - *2025* Xiamen University Outstanding Graduate (University-level)
