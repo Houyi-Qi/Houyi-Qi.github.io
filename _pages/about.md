@@ -110,8 +110,8 @@ My research interests include matching theory, resource allocation, and edge int
 </div>
 
 ## 🧾Conferences
-- Ahead-of-Time and Risk-Aware Double Auction for Resource Scheduling over UAV-Assisted Internet of Vehicles, Ziqi Ling, Minghui Liwang, **Houyi Qi**, Wei Gong, Zhipeng Cheng, *IEEE 4th International Conference on Computing, Communication, Perception and Quantum Technology (IEEE CCPQT)*, 2025.
-- Offline-Online Mixed Trajectory and Action Planning for Multi-UAV Collaborative Sensing over Unpredictable Points of Interest, Wenhan Jia, Minghui Liwang, **Houyi Qi**, Yuhan Su, *IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP)*, 2025.
+- [Ahead-of-Time and Risk-Aware Double Auction for Resource Scheduling over UAV-Assisted Internet of Vehicles](https://ieeexplore.ieee.org/document/11383449), Ziqi Ling, Minghui Liwang, **Houyi Qi**, Wei Gong, Zhipeng Cheng, *IEEE 4th International Conference on Computing, Communication, Perception and Quantum Technology (IEEE CCPQT)*, 2025.
+- [Offline-Online Mixed Trajectory and Action Planning for Multi-UAV Collaborative Sensing over Unpredictable Points of Interest](https://ieeexplore.ieee.org/document/11352022), Wenhan Jia, Minghui Liwang, **Houyi Qi**, Yuhan Su, *IEEE International Conference on Wireless Communications and Signal Processing (IEEE WCSP)*, 2025.
 
 ## 📊Patents
 - 面向数据收集的多无人机动态路径规划方法、装置、设备及介质, 李王明卉, 贾文翰, 吴思城, **齐厚艺**, 苏毓涵，CN202411015056.4, 2024.12
