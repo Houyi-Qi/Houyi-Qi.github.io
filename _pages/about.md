@@ -47,7 +47,7 @@ My research interests include matching theory, resource allocation, and edge int
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni
 
-- *IEEE Journal on Selected Areas in Communications* (IF: 17.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Journal on Selected Areas in Communications* (IF: 17.2, CCF A, JCR Q1)
 - DOI: 10.1109/JSAC.2025.3608114  
 
 </div>
@@ -61,7 +61,7 @@ My research interests include matching theory, resource allocation, and edge int
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Liqun Fu, Yiguang Hong, Li Li, Zhipeng Cheng
 
-- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1)
 - DOI: 10.1109/TMC.2025.3610915  
 
 </div>
@@ -75,7 +75,7 @@ My research interests include matching theory, resource allocation, and edge int
 
 **Houyi Qi**, Minghui Liwang, Xianbin Wang, Li Li, Wei Gong, Jian Jin, Zhenzhen Jiao
 
-- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1, CAS Q1 Top)
+- *IEEE Transactions on Mobile Computing* (IF: 9.2, CCF A, JCR Q1)
 - DOI: 10.1109/TMC.2024.3412751  
 
 </div>
@@ -89,7 +89,7 @@ My research interests include matching theory, resource allocation, and edge int
 
 **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Xiaoyu Xia, Zhipeng Cheng, Xianbin Wang
 
-- *IEEE Transactions on Services Computing* (IF: 5.8, CCF A, JCR Q1, CAS Q2 Top)
+- *IEEE Transactions on Services Computing* (IF: 5.8, CCF A, JCR Q1)
 - DOI: 10.1109/TSC.2023.3333832  
 
 </div>
@@ -103,7 +103,7 @@ My research interests include matching theory, resource allocation, and edge int
 
 **Houyi Qi**, Minghui Liwang, Liqun Fu, Xianbin Wang, Huaiyu Dai, Xiaoyu Xia
 
-- *IEEE Transactions on Emerging Topics in Computing* (IF: 5.4, JCR Q1, CAS Q2)
+- *IEEE Transactions on Emerging Topics in Computing* (IF: 5.4, JCR Q1)
 - DOI: 10.1109/TETC.2025.3625379  
 
 </div>
@@ -120,6 +120,7 @@ My research interests include matching theory, resource allocation, and edge int
 ## 📝Under Review
 - [PAST: Pilot and Adaptive Orchestration for Timely and Resilient Service Delivery in Edge-Assisted UAV Networks under Spatio-Temporal Dynamics](https://arxiv.org/abs/2509.25700), **Houyi Qi**, Minghui Liwang, Liqun Fu, Sai Zou, Xinlei Yi, Wei Ni, Huaiyu Dai, 2025.
 - [FUSION: Forecast-Embedded Agent Scheduling with Service Incentive Optimization over Distributed Air-Ground Edge Networks](https://arxiv.org/abs/2512.14323), **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Xianbin Wang, Wei Ni, Yiguang Hong, 2025.
+- [Masking Intent, Sustaining Equilibrium: Risk-Aware Potential Game-empowered Two-Stage Mobile Crowdsensing](https://arxiv.org/abs/2603.18670v1), **Houyi Qi**, Minghui Liwang, Kaiwen Tan, Wenyong Wang, Sai Zou, Yiguang Hong, Xianbin Wang, Wei Ni, 2026.
 
 <span class='anchor' id='-Service'></span>
 # 🧑‍⚖️ Academic Service
