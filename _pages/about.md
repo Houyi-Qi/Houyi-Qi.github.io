@@ -126,6 +126,7 @@ My research interests include matching theory, resource allocation, and edge int
 # 🧑‍⚖️ Academic Service
 
 * Journal Reviewer, [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
+* Journal Reviewer, [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
 * Journal Reviewer, [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)
 
 
