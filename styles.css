@@ -66,6 +66,7 @@ main { position:relative; z-index:1; padding-bottom:30px; }
 .subheading.separated { margin-top:40px; margin-bottom:22px; }
 .subheading .review-status { border:1px solid #dde6ec; padding:2px 9px; border-radius:4px; font-size:11px; }
 .journal-paper { display:grid; grid-template-columns:minmax(0,1fr) 215px; gap:34px; padding:28px 0; border-bottom:1px solid var(--line); }
+.journal-paper-text-only .paper-copy { grid-column:1/-1; }
 .journal-paper:last-child { padding-bottom:6px; border-bottom:0; }
 .paper-meta { display:flex; flex-wrap:wrap; align-items:center; gap:8px 12px; color:var(--muted); font-size:12px; margin-bottom:11px; }
 .venue-tag { padding:2px 8px; border-radius:4px; background:#edf4f8; color:var(--blue); font-size:11px; font-weight:600; letter-spacing:.025em; }
@@ -74,6 +75,8 @@ main { position:relative; z-index:1; padding-bottom:30px; }
 .paper-copy h4 a:hover,.text-paper h4 a:hover { color:var(--blue); }
 .authors { color:var(--muted); font-size:14px; line-height:1.75; margin-top:9px; }
 .authors strong { color:var(--body); font-weight:600; }
+.author-marker { margin-left:1px; }
+.author-note { color:var(--muted); font-size:12px; margin-top:3px; }
 .venue { font-size:13px; color:var(--body); margin-top:6px; line-height:1.7; }
 .paper-tools { display:grid; grid-template-columns:max-content minmax(0,1fr); column-gap:22px; margin-top:13px; align-items:start; }
 .paper-tools.summary-only { display:block; }
